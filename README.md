@@ -58,7 +58,7 @@ Part 3 will focus on how can peform some analysis on our data using Python. This
 
 **To be announced (online via [Zoom](https://us02web.zoom.us/j/81973732112?pwd=Tm8rcFh3S2pWSXFtcFlrc1FRclhiUT09))**
 In the fourth and final session we will bring together everything we have learning into an investigation of machine learning and artificial intelligence. We'll build a model that will allow us to make sure predictions about our data and to draw some generalizations about the trends we find in it. We will explore how to use Python's Psychopy library to create a psychology experiment 
-[Info on Psychoy](https://www.psychopy.org/)
+[Info on Psychopy](https://www.psychopy.org/)
 
 [![Open In Colab]
 
