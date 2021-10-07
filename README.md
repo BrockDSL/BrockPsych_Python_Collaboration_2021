@@ -23,7 +23,7 @@ The dataset used for this workshop series can be found on the [UC Irvine Machine
 
 ### Session 1: Introduction to Python
 
-**Wednesday September 29, 5:00 - 6:30 PM (online via [Zoom](https://us02web.zoom.us/j/86316927632?pwd=c2tVYmR4VDRWTlZSZnVZeDN3cmdLZz09))**  
+**To be announced (online via [Zoom](https://us02web.zoom.us/j/86316927632?pwd=c2tVYmR4VDRWTlZSZnVZeDN3cmdLZz09))**  
 
 This session will provide you with the very basics of how to read and write Python code. We'll be using the Google Collab environment to learn so no extra software installation will be required. By the end of the sessions you'll be comfortable with the basics of Python which includes: variables, conditionals, loops, and writing function.
 
@@ -32,7 +32,7 @@ This session will provide you with the very basics of how to read and write Pyth
 
 ### Session 2: Python and Accessing Data
 
-**Thursday September 30, 5:00 - 6:30 PM (online via [Zoom](https://us02web.zoom.us/j/85847146113?pwd=WEdBZi8yY0dOTzRiNFFsYks2U0JBUT09))**
+**To be announced (online via [Zoom](https://us02web.zoom.us/j/85847146113?pwd=WEdBZi8yY0dOTzRiNFFsYks2U0JBUT09))**
 
 Part 2 will build on what was started in part 1. This time we'll expand our understanding of how Python works by introducing the Pandas Library
 
