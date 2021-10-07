@@ -1,17 +1,5 @@
 ![Tool Logo][imglogo]
 
-
-# Title
-Description of contents
-
-### First header
-Content
-
-### Second Header
-
-Content
-
-### Etc.
  
  # DSL / Brock Psychology Society Fall 2021 Workshop Series
 
@@ -97,4 +85,4 @@ You can also find us on:
 
 <!--- Please use reference style images so that it is easier to update pictures later --->
 
-[imglogo]: INSERT LOGO FILENAME HERE
+
