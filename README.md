@@ -1,6 +1,3 @@
-![Tool Logo][imglogo]
-
- 
  # DSL / Brock Psychology Society Fall 2021 Workshop Series
 
 
