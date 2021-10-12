@@ -27,7 +27,7 @@ The dataset used for this workshop series can be found on the [UC Irvine Machine
 
 This session will provide you with the very basics of how to read and write Python code. We'll be using the Google Collab environment to learn so no extra software installation will be required. By the end of the sessions you'll be comfortable with the basics of Python which includes: variables, conditionals, loops, and writing function.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/DASA_2021_Python_Collaboration/blob/master/IntroPythonPsych.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/BrockPsych_Python_Collaboration_2021/blob/master/IntroPythonPsych.ipynb)
 
 
 ### Session 2: Python and Accessing Data
