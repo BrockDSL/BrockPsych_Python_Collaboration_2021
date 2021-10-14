@@ -36,7 +36,7 @@ This session will provide you with the very basics of how to read and write Pyth
 
 Part 2 will build on what was started in part 1. This time we'll expand our understanding of how Python works by introducing the Pandas Library
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/DASA_2021_Python_Collaboration/blob/master/Python2Sept30.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/BrockPsych_Python_Collaboration_2021/blob/master/PsycPythonPart2.ipynb)
 
 ----
 
