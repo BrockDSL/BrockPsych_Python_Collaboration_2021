@@ -34,7 +34,7 @@ This session will provide you with the very basics of how to read and write Pyth
 
 **To be announced (online via [Zoom](https://us02web.zoom.us/j/85847146113?pwd=WEdBZi8yY0dOTzRiNFFsYks2U0JBUT09))**
 
-Part 2 will build on what was started in part 1. This time we'll expand our understanding of how Python works by introducing the Pandas Library
+Part 2 will build on what was started in part 1. This time we'll expand our understanding of how Python works by introducing the Pandas Library, and will focus on how one can peform some analysis on our data using Python. This will include some fairly complex statistical analysis and also graphing some visualizations using the MatPlotLib and Seaborn Libraries.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/BrockPsych_Python_Collaboration_2021/blob/master/PsychPythonPart2.ipynb)
 
@@ -44,7 +44,7 @@ Part 2 will build on what was started in part 1. This time we'll expand our unde
 
 **To be announced (online via [Zoom](https://us02web.zoom.us/j/85153756750?pwd=RmFiaGxtQnprTEFISXdoSXdWZERqZz09))**
 
-Part 3 will focus on how can peform some analysis on our data using Python. This will include some fairly complex statistical analysis and also graphing some visualizations using the MatPlotLib Library.
+Part 3 will focus on building a website that recieves input from users and gives them output using PythonAnywhere. We will create an online MBTI quiz that tells users which of the 16 personalities they are. We will then learn how to extract user data from this website into an organized data table in Python (web scraping) 
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/DASA_2021_Python_Collaboration/blob/master/PythonOct64.ipynb)
