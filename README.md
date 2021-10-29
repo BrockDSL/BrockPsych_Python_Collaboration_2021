@@ -30,7 +30,7 @@ This session will provide you with the very basics of how to read and write Pyth
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/BrockPsych_Python_Collaboration_2021/blob/master/IntroPythonPsych.ipynb)
 
 
-### Session 2: Python and Accessing Data
+### Session 2: Python and Data Science in Psychology
 
 **To be announced (online via [Zoom](https://us02web.zoom.us/j/85847146113?pwd=WEdBZi8yY0dOTzRiNFFsYks2U0JBUT09))**
 
@@ -40,7 +40,7 @@ Part 2 will build on what was started in part 1. This time we'll expand our unde
 
 ----
 
-### Session 3: Python Techniques for Data Science
+### Session 3: Python and Website Building
 
 **To be announced (online via [Zoom](https://us02web.zoom.us/j/85153756750?pwd=RmFiaGxtQnprTEFISXdoSXdWZERqZz09))**
 
