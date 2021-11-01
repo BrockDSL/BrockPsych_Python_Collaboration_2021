@@ -23,7 +23,7 @@ The dataset used for this workshop series can be found on the [UC Irvine Machine
 
 ### Session 1: Introduction to Python
 
-**To be announced (online via [Zoom](https://us02web.zoom.us/j/86316927632?pwd=c2tVYmR4VDRWTlZSZnVZeDN3cmdLZz09))**  
+**To be announced (online)**  
 
 This session will provide you with the very basics of how to read and write Python code. We'll be using the Google Collab environment to learn so no extra software installation will be required. By the end of the sessions you'll be comfortable with the basics of Python which includes: variables, conditionals, loops, and writing function.
 
@@ -32,7 +32,7 @@ This session will provide you with the very basics of how to read and write Pyth
 
 ### Session 2: Python and Data Science in Psychology
 
-**To be announced (online via [Zoom](https://us02web.zoom.us/j/85847146113?pwd=WEdBZi8yY0dOTzRiNFFsYks2U0JBUT09))**
+**To be announced (online)**
 
 Part 2 will build on what was started in part 1. This time we'll expand our understanding of how Python works by introducing the Pandas Library, and will focus on how one can peform some analysis on our data using Python. This will include some fairly complex statistical analysis and also graphing some visualizations using the MatPlotLib and Seaborn Libraries.
 
@@ -42,7 +42,7 @@ Part 2 will build on what was started in part 1. This time we'll expand our unde
 
 ### Session 3: Python and Website Building
 
-**To be announced (online via [Zoom](https://us02web.zoom.us/j/85153756750?pwd=RmFiaGxtQnprTEFISXdoSXdWZERqZz09))**
+**To be announced (online)**
 
 Part 3 will focus on building a website that recieves input from users and gives them output using PythonAnywhere. We will create an online MBTI quiz that tells users which of the 16 personalities they are. We will then learn how to extract user data from this website into an organized data table in Python (web scraping) 
 
@@ -53,7 +53,7 @@ Part 3 will focus on building a website that recieves input from users and gives
 
 ### Session 4: Using Python to create Psychology experiments
 
-**To be announced (online via [Zoom](https://us02web.zoom.us/j/81973732112?pwd=Tm8rcFh3S2pWSXFtcFlrc1FRclhiUT09))**
+**To be announced (online)**
 In the fourth and final session we will explore how to use Python's Psychopy library to create a psychology experiment 
 [Info on Psychopy](https://www.psychopy.org/)
 
