@@ -57,7 +57,7 @@ Part 3 will focus on building a website that recieves input from users and gives
 In the fourth and final session we will explore how to use Python's Psychopy library to create a psychology experiment 
 [Info on Psychopy](https://www.psychopy.org/)
 
-[![Open In Colab]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/BrockPsych_Python_Collaboration_2021/blob/master/PsychPythonPart4.ipynb)
 
 ----
  
