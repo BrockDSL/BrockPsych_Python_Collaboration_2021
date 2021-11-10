@@ -1,0 +1,42 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "PsychPythonPart3.ipynb",
+      "provenance": [],
+      "collapsed_sections": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "elCkxrZqDx4v"
+      },
+      "source": [
+        "![DSL_logo](https://github.com/BrockDSL/Intro_to_Python_Workshop/blob/master/dsl_logo.png?raw=1) \n",
+        "\n",
+        "![PythonPsycology](http://www.pygaze.org/wp-content/uploads/2016/10/Dalmaijer_2016_PEP-1024x356.jpg)\n",
+        "\n",
+        "# Welcome to Python for Psycholgy Part 4! \n",
+        "\n",
+        "By the end of today we'll know all about the following; \n",
+        "\n",
+        "- Building a language experiment in Psychopy \n",
+        "- We will design the psychology experiment using the user interface, and then we will look at the Python code version.\n",
+        "  First, if you haven't done so already, download Psychopy onto your computer.
+https://www.psychopy.org/download.html\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
