@@ -57,7 +57,7 @@ Part 3 will focus on building a website that recieves input from users and gives
 In the fourth and final session we will explore how to use Python's Psychopy library to create a psychology experiment 
 [Info on Psychopy](https://www.psychopy.org/)
 
-[![Open pdf file](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/896px-PDF_icon.svg.png)](https://github.com/BrockDSL/BrockPsych_Python_Collaboration_2021/blob/master/Doing%20a%20language%20Memory%20experiment%20in%20Psychopy.pdf)
+[![Open pdf file](https://icons.iconarchive.com/icons/treetog/i/128/PDF-icon.png)](https://github.com/BrockDSL/BrockPsych_Python_Collaboration_2021/blob/master/Doing%20a%20language%20Memory%20experiment%20in%20Psychopy.pdf)
 
 ----
  
